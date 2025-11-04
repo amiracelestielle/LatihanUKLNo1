@@ -10,4 +10,4 @@ lalu menghitung biaya total pengiriman dengan mengikuti ketentuan:
 - Java
 
 ## 📷 Screenshot Output
-
+<img width="1485" height="336" alt="Screenshot LatUKLNo1_AmiraFawwaza Farihan Asadela(04)_XR5" src="https://github.com/user-attachments/assets/394b253a-2532-4ef5-8d03-a1e94deae503" />
